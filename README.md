@@ -9,6 +9,7 @@
 - bash/shell
 - JavaScript
 - TypeScript
+- CoffeScript
 - NodeJS
 - ReactJS
 - HTML
