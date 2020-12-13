@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there, I'm lxhom! 👋
 
-<!--
-**lxhom/lxhom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I code stuff in these languages:
 
-Here are some ideas to get you started:
+- C
+- C++
+- C#
+- Java
+- bash/shell
+- JavaScript
+- TypeScript
+- NodeJS
+- ReactJS
+- HTML
+- CSS
+- Python
+- TIBasic (yes im a calculator nerd)
+- z80ASM (yes i have a TI 84 Plus and a TI 83 Plus)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### By the way: A lot of my public projects are school-related, and if they are, their name starts with `schule-`.
+
+## Have fun browsing my projects!
