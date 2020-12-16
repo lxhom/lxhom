@@ -21,4 +21,4 @@
 
 ### By the way: A lot of my public projects are school-related, and if they are, their name starts with `schule-`.
 
-## Have fun browsing my projects!
+## Have fun browsing my projects[!](https://github.com/lxhom/lxhom/?do_NOT_look_inside_the_folder)
