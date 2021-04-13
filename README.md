@@ -12,6 +12,7 @@
 - CoffeScript
 - NodeJS
 - Angular
+- Svelte
 - HTML
 - CSS
 - Python
