@@ -1,24 +1,11 @@
-# Hi there, I'm lxhom! 👋
+# Hi there, I'm lxhom! [👋](https://github.com/lxhom/lxhom/?do_NOT_look_inside_the_folder)
 
-## I code stuff in these languages:
-
-- C
-- C++
-- C#
-- Java
-- bash/shell
-- JavaScript
-- TypeScript
-- CoffeScript
-- NodeJS
-- Angular
-- Svelte
-- HTML
-- CSS
-- Python
-- TIBasic (yes im a calculator nerd)
-- z80ASM (yes i have a TI 84 Plus and a TI 83 Plus)
-
-### By the way: A lot of my public projects are school-related, and if they are, their name starts with `schule-`.
-
-## Have fun browsing my projects[!](https://github.com/lxhom/lxhom/?do_NOT_look_inside_the_folder)
+## Stuff I use:
+- **Rust** for a lot (servers, desktop apps etc.)
+- **C**/**C++** for some Linux programs like compositors
+- **JS**/**TS**, **CSS**/**Sass** & Svelte for Web Development
+- **Bash**/**SH** for scripting various stuff
+- **Python**, **Node** & **CoffeScript** for small projects
+- **TIBasic** & **z80asm** for calculator nerd things
+- **8051asm**/**C** for microcontrollers
+- **i3wm**, **kitty** and **picom** on Arch btw
