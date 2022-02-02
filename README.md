@@ -8,4 +8,5 @@
 - **Python**, **Node** & **CoffeScript** for small projects
 - **TIBasic** & **z80asm** for calculator nerd things
 - **8051asm**/**C** for microcontrollers
+- **O'Reilly books** and **w3m** + **icat** for learning stuff
 - **i3wm**, **kitty** and **picom** on Arch btw
