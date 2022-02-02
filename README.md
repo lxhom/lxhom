@@ -5,7 +5,7 @@
 - **C**/**C++** for some Linux programs like compositors
 - **JS**/**TS**, **CSS**/**Sass** & Svelte for Web Development
 - **Bash**/**SH** for scripting various stuff
-- **Python**, **Node** & **CoffeScript** for small projects
+- **Python**, **Node** or **CoffeScript** for small projects
 - **TIBasic** & **z80asm** for calculator nerd things
 - **8051asm**/**C** for microcontrollers
 - **O'Reilly books** and **w3m** + **icat** for learning stuff
